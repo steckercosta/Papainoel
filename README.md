@@ -1,0 +1,2 @@
+# Papainoel
+Bot_Whitelist
